@@ -4,13 +4,13 @@
 
 ## Índice
 
-- [git init](#init)
-- [git status](#status)
-- [git add](#add)
-- [git commit](#commit)
-- [git push](#push)
+- [git init](#git-init)
+- [git status](#git-status)
+- [git add](#git-add)
+- [git commit](#git-commit)
+- [git push](#git-push)
 
-## init
+## git init
 
 Inicializa um repositório local Git.
 
