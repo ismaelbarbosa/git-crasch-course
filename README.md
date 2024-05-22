@@ -4,31 +4,39 @@
 
 ## Índice
 
-- [git init](#git-init)
-- [git status](#git-status)
-- [git add](#git-add)
-- [git commit](#contribuição)
-- [git push](#licença)
+- [git init](#init)
+- [git status](#status)
+- [git add](#add)
+- [git commit](#commit)
+- [git push](#push)
 
-## git-init
+## init
 
 Inicializa um repositório local Git.
 
-## git-status
+$ git init <nome do repositório>
+
+## status
 
 Exibe o status do repositório.
 
-## git-add
+$ git status
 
-Esta é a seção de uso. Aqui você encontra instruções de como usar o projeto.
+## add
 
-## Contribuição
+Adicionar os arquivos ao stage
 
-Esta é a seção de contribuição. Aqui você encontra informações de como contribuir para o projeto.
+$ git add .
 
-## Licença
+## commit
 
-Esta é a seção de licença. Aqui você encontra informações sobre a licença do projeto.
+Prepara os arquivos para serem enviados
+$ git commit -m 'Descrição do commit'
 
+## push
+
+Envia as alterações para o repositório github
+
+$ git push -u origin main
 
 
