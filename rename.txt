@@ -1,0 +1,4 @@
+Repositório antigo estava com o nome errado
+Foi renomeado no github
+Foi atualizado no repositório local com o comando:
+git remote set-url origin https://github.com/ismaelbarbosa/git-crash-course.git
