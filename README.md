@@ -16,24 +16,22 @@ Inicializa um repositório local Git.
 
 $ git init <nome do repositório>
 
-## status
+## git status
 
 Exibe o status do repositório.
 
-$ git status
-
-## add
+## git add
 
 Adicionar os arquivos ao stage
 
 $ git add .
 
-## commit
+## git commit
 
 Prepara os arquivos para serem enviados
 $ git commit -m 'Descrição do commit'
 
-## push
+## git push
 
 Envia as alterações para o repositório github
 
