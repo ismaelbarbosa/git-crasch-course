@@ -4,21 +4,21 @@
 
 ## Índice
 
-- [git init](#git init)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+- [git init](#git-init)
+- [git status](#git-status)
+- [git add](#git-add)
+- [git commit](#contribuição)
+- [git push](#licença)
 
-# $ git init
+## $ git init
 
 Inicializa um repositório local Git.
 
-## Instalação
+## $ git status
 
-Esta é a seção de instalação. Aqui você encontra instruções de como instalar o projeto.
+Exibe o status do repositório.
 
-## Uso
+## $ git add
 
 Esta é a seção de uso. Aqui você encontra instruções de como usar o projeto.
 
