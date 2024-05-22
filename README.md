@@ -10,15 +10,15 @@
 - [git commit](#contribuição)
 - [git push](#licença)
 
-## $ git init
+## $ git-init
 
 Inicializa um repositório local Git.
 
-## $ git status
+## $ git-status
 
 Exibe o status do repositório.
 
-## $ git add
+## $ git-add
 
 Esta é a seção de uso. Aqui você encontra instruções de como usar o projeto.
 
